@@ -1,3 +1,4 @@
+![image](emse.png)
 # EMSE (Encuesta Mundial de Salud Escolar) 2018 - Análisis de datos. 
 
 ## Acerca de EMSE
